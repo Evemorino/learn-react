@@ -1,7 +1,6 @@
 # learn-react
 
-// https://github.com/
+`````
+npm install
 
-/**
- * @param {string} 测试 
- */
+`````
